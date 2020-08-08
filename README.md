@@ -19,8 +19,8 @@ Typescript <br />
 # Como obter esse repositório?
 Para obter esse projeto, siga os passos:
 1. Clone esse repositório utilizando <code>git clone</code>.
-2. Rode o comando <code> yarn </code> na raíz da pasta do projeto clonado para baixar as dependências.
-3. Rode <code> yarn start </code> na raíz da pasta do projeto para inicializar o Metro Bundler.
+2. Rode o comando <code> yarn </code> na da pasta do projeto que queira utilizar para para baixar as dependências.
+3. Rode <code> yarn start </code> na pasta do projeto para inicializar.
 
 # Como Contribuir?
 **Faça um fork deste repositório**
