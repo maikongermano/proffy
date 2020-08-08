@@ -1,0 +1,37 @@
+# Proffy App
+Aplicativo desenvolvido na semana da nlw #2
+
+# Proposta
+Uma aplicação onde professores pode se cadastrar para dar aula, e tambêm onde alunos possam procurar
+por professores.
+
+# Tecnologias Utilizadas 🚀
+React <br />
+React Native <br />
+Expo <br />
+Typescript <br />
+
+# Como obter esse repositório?
+Para obter esse projeto, siga os passos:
+1. Clone esse repositório utilizando <code>git clone</code>.
+2. Rode o comando <code> yarn </code> na raíz da pasta do projeto clonado para baixar as dependências.
+3. Rode <code> yarn start </code> na raíz da pasta do projeto para inicializar o Metro Bundler.
+
+# Como Contribuir?
+**Faça um fork deste repositório**
+
+```bash
+# Clone o seu fork
+$ git clone url-do-seu-fork && cd proffyApp
+
+# Crie uma branch com sua feature ou correção de bugs
+$ git checkout -b minha-branch
+
+# Faça o commit das suas alterações
+$ git commit -m 'minhas alterações'
+
+# Faça o push para a sua branch
+$ git push origin minha-branch
+```
+
+Delete sua branch, se quiser, quando o merge da sua pull request for feito. <br />
