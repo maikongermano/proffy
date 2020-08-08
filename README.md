@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="web/src/assets/images/landing.svg" />
+</p>
+
 # Proffy
 Aplicativo desenvolvido na semana da nlw #2
 
